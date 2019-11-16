@@ -1,3 +1,7 @@
+# See what it looks like:
+
+https://github.com/jonathanhsu0101/emoji-weather/blob/master/Capture.PNG
+
 # What is this?
 
 You can search any city and find the weather over there.
